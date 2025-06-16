@@ -1,0 +1,9 @@
+{
+    "discord_token": "YOUR_DISCORD_TOKEN",
+    "settings": {
+        "role_create_delay": 1.0,
+        "channel_create_delay": 0.5,
+        "emoji_create_delay": 1.0,
+        "permission_update_delay": 0.3
+    }
+}
