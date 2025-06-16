@@ -120,11 +120,25 @@
 
 ### 🎯 **Getting Your Discord Token**
 
+### METHOD 1
+
 1. Open Discord in your browser
 2. Press F12 to open Developer Tools
-3. Go to Network tab and refresh the page
-4. Look for requests to `api/v9` or similar
+3. Go to Application Tab
+4. In Application Tab, navigate in Local Storage > https://discord.com
+5. In the table search for a key named token
+6. Copy his value and now you have your token ! Yippie
+
+### METHOD 2
+1. Open Discord in your browser
+2. Press F12 to open Developer Tools
+3. Go to Network tab and refresh the page with CTRL + R
+4. Search for science
+5. Navigate to it
 5. In the request headers, copy the "Authorization" value
+
+## *You didn't find any way to get your token ?*
+> https://www.youtube.com/watch?v=pwsXiKdRbKM
 
 ---
 
