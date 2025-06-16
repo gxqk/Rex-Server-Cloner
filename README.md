@@ -1,14 +1,18 @@
 # 🦕 Rex Server-Cloner
 
 <div align="center">
+  <img src="https://i.ibb.co/DDdHh9zx/Capture.png" alt="Rex Server-Cloner Banner" width="700">
+
+  **A powerful Discord selfbot to fully clone Discord servers with complete hierarchy preservation**
+
+  *Clean • Fast • Reliable*
+</div>
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Discord.py](https://img.shields.io/badge/discord.py--self-green.svg)
 ![License](https://img.shields.io/badge/License-Educational-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightblue.svg)
-
-*A powerful Discord selfbot to fully clone Discord servers with complete hierarchy preservation*
 
 [Features](#-features) • [Installation](#-installation) • [Configuration](#-configuration) • [Usage](#-usage) • [Support](#-support)
 
@@ -65,13 +69,14 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/gxqk/Rex-Server-Cloner.git
+   git clone https://github.com/gxqk/Rex-Server-Clone.git
    cd rex-server-cloner
    ```
 
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
+   # or launch install.bat for windows users
    ```
 
 3. **Configure your token**
